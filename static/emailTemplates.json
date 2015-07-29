@@ -1,0 +1,51 @@
+{
+  "welcome": {
+    "subject": "Welcome to Brickflow!",
+    "headline": "It is amazing to have you on board!",
+    "body": "The best way to get more followers is to run an engaging blog.<br/><br/> Post 20 and follow 20 every day. <br/><br/>It’s as easy as a click with Brickflow.",
+    "button": "Get started",
+    "button_url": "brickflow.com",
+    "template": "general-mail",
+    "triggerType": "register"
+  },
+  "share": {
+    "subject": "Step 1: Share Regularly",
+    "headline": "Have a Rolling Blog",
+    "body": "It’s a simple truth: Famous bloggers post many times a day and that’s why their followers keep them around.<br/><br/>Reach the most of your followers and have them reblog by being in their feeds regularly. It will spread your content, getting you more followers.<br/><br/>Use Brickflow today to have a rolling blog.",
+    "button": "Share Content",
+    "button_url": "brickflow.com",
+    "template": "general-mail",
+    "triggerType": "lastSeenDaysAgo",
+    "triggerValue": 1
+  },
+  "schedule": {
+    "subject": "Step 1.5: Schedule Content",
+    "headline": "Set Your Queue",
+    "body": "Your followers are on Tumblr when it’s convenient for them, not you. <br/><br/> If you don’t want many of them miss out on your content share throughout the day.<br/><br/>Use your Tumblr Queue. Set it to 20 posts a day and click “add to queue” on Brickflow when sharing.",
+    "button": "Set Queue",
+    "button_url": "https://www.tumblr.com/blog/%name%/queue",
+    "template": "general-mail",
+    "triggerType": "lastSeenDaysAgo",
+    "triggerValue": 3
+  },
+  "grow": {
+    "subject": "Step 2: Grow Your Network",
+    "headline": "Follow Relevant Blogs",
+    "body": "You can promote your blog further by growing your network. <br/><br/>The best way is to follow other blogs with a similar topic. <br/><br/>They get to know about you, check your blog and follow/reblog you.<br/><br/>Use Brickflow to discover relevant blogs. Follow 20 a day (a click each) and see them joining your network.",
+    "button": "Follow Blogs",
+    "button_url": "brickflow.com",
+    "template": "general-mail",
+    "triggerType": "lastSeenDaysAgo",
+    "triggerValue": 5
+  },
+  "stick": {
+    "subject": "Step 3: Stick Out",
+    "headline": "Stick Out From the Crowd",
+    "body": "Did you know that only 51% of reblogs happen within a week and your content can be alive for months? <br/><br/>In the clutter that is on Tumblr some of your followers simply miss out on your best content.<br/><br/>Speed up reblogs by showcasing your best content. Use Brickflow to share a collection showing your followers what they have missed.",
+    "button": "Showcase Content",
+    "button_url": "brickflow.com",
+    "template": "general-mail",
+    "triggerType": "lastSeenDaysAgo",
+    "triggerValue": 7
+  }
+}
